@@ -1,27 +1,105 @@
-# LogisticsUi
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+# Front-End Application
 
-## Development server
+> This is the code for the Front-End built with Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Table of Contents
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Front-End Application](#front-end-application)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+    - [Clone](#clone)
+    - [Setup](#setup)
+  - [Features](#features)
+  - [Usage (Optional)](#usage-optional)
+  - [Documentation (Optional)](#documentation-optional)
+  - [Tests (Optional)](#tests-optional)
+  - [Contributing](#contributing)
+    - [Step 1](#step-1)
+    - [Step 2](#step-2)
+    - [Step 3](#step-3)
+  - [FAQ](#faq)
+  - [Support](#support)
+  - [License](#license)
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Installation
 
-## Running unit tests
+- All the `code` required to get started
+- Images of what it should look like
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Clone
 
-## Running end-to-end tests
+- Clone this repo to your local machine using `https://github.com/BuildForSDGCohort2/Team-1053-frontend.git`
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### Setup
 
-## Further help
+- If you want more syntax highlighting, format your code like this:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+> update and install development packages first
+
+```shell
+$ brew update
+$ brew install node
+
+```
+> Install project packages for the app
+
+```shell
+$ npm install
+
+```
+
+## Features
+## Usage (Optional)
+## Documentation (Optional)
+## Tests (Optional)
+
+---
+
+## Contributing
+
+> To get started...
+
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/BuildForSDGCohort2/Team-1053-frontend.git`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/BuildForSDGCohort2/Team-1053-frontent/compare/" target="_blank">`https://github.com/BuildForSDGCohort2/Team-1053-frontend/compare/`</a>.
+
+---
+
+## FAQ
+
+- **How do I do *specifically* so and so?**
+- No problem! Just do this.
+
+---
+
+## Support
+
+Reach out to me at one of the following places!
+
+- My Website at <a href="https://bonifaseorwa.com" target="_blank">`Bonifase Orwa`</a>
+- Twitter at <a href="https://twitter.com/bonifaseorwa" target="_blank">`@bonifase`</a>
+
+---
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+- **[Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)**
+- Copyright 2020 © By <a href="http://orwabonifase.com" target="_blank">Bonifase</a>.
